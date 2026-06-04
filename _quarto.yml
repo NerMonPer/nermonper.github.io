@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nerea Montes"
+  navbar:
+    background: "#1F2A22"
+    foreground: "#F8F6F0"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: portfolio.qmd
+        text: Portfolio
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
