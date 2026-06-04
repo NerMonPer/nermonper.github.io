@@ -9,7 +9,7 @@ format: html
 
 ### 2026
 
-**Bartomeus, I., Arroyo-Correa, B., Montes-Pérez, N.**  
+*Bartomeus, I., Arroyo-Correa, B., Montes-Pérez, N.*  
 Animal Pollination Under Human-Induced Rapid Environmental Change.  
 *Annual Review of Environment and Resources.*
 
