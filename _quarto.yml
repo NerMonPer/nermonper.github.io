@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nerea Montes"
+  title: "Nerea Montes Pérez"
   navbar:
     background: "#1F2A22"
     foreground: "#F8F6F0"
