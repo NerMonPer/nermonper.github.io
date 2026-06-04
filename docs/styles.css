@@ -1,0 +1,51 @@
+:root {
+  --olive-light: #A8B18A;
+  --mustard: #D9A441;
+  --terracotta: #C9773B;
+  --cream: #F8F6F0;
+  --dark-green: #1F2A22;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--dark-green);
+}
+
+h1, h2, h3 {
+  color: var(--dark-green);
+}
+
+a {
+  color: var(--terracotta);
+}
+
+a:hover {
+  color: var(--mustard);
+}
+
+.navbar {
+  border-bottom: 4px solid var(--mustard);
+}
+
+.btn-primary, .btn {
+  background-color: var(--mustard);
+  border-color: var(--mustard);
+  color: var(--dark-green);
+}
+
+.hero {
+  background: var(--olive-light);
+  padding: 4rem 2rem;
+  border-radius: 24px;
+  margin-top: 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero img {
+  max-width: 280px;
+  border-radius: 50%;
+  border: 6px solid var(--cream);
+}
