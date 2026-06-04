@@ -1,6 +1,6 @@
 ---
-
-## title: "Publications"
+title: "Publications"
+---
 
 # Publications
 
@@ -8,40 +8,40 @@
 
 ### 2026
 
-**Bartomeus, I., Arroyo-Correa, B., Montes-Pérez, N.**
-Animal Pollination Under Human-Induced Rapid Environmental Change.
+**Bartomeus, I., Arroyo-Correa, B., Montes-Pérez, N.**  
+Animal Pollination Under Human-Induced Rapid Environmental Change.  
 *Annual Review of Environment and Resources.*
 
----
+<br>
 
 ### 2025
 
-**Montes-Pérez, N., Molina, F. P., & Bartomeus, I.**
-Generalized plant-pollinator phenological climate-driven advances still lead to a decline in phenological overlap.
+**Montes-Pérez, N., Molina, F. P., & Bartomeus, I.**  
+Generalized plant-pollinator phenological climate-driven advances still lead to a decline in phenological overlap.  
 *Ecological Monographs.*
 
----
+<br>
 
-**Lanuza, J. B., Knight, T. M., Montes-Pérez, N., et al.**
-EuPPollNet: A European Database of Plant-Pollinator Networks.
+**Lanuza, J. B., Knight, T. M., Montes-Pérez, N., et al.**  
+EuPPollNet: A European Database of Plant-Pollinator Networks.  
 *Global Ecology and Biogeography.*
 
----
+<br>
 
-**Marini, L., et al.**
-Using total abundance as a proxy for wild bee species richness: A practical tool for non-experts.
+**Marini, L., et al.**  
+Using total abundance as a proxy for wild bee species richness: A practical tool for non-experts.  
 *Journal of Applied Ecology.*
 
----
+<br>
 
 ## Preprints and Manuscripts
 
-**Molina, F. P., Montes-Pérez, N., Villagarcía, L., & Bartomeus, I.**
-Mapping wild bee diversity and flower use for an effective conservation of the Doñana biodiversity hotspot.
+**Molina, F. P., Montes-Pérez, N., Villagarcía, L., & Bartomeus, I.**  
+Mapping wild bee diversity and flower use for an effective conservation of the Doñana biodiversity hotspot.  
 *bioRxiv*. Under review in *Insect Conservation and Diversity.*
 
----
+<br>
 
-**Mauer, C., et al.**
-Local habitat quality, landscape use and honeybees directly and indirectly affect plant-pollinator network functioning and robustness across Europe.
+**Mauer, C., et al.**  
+Local habitat quality, landscape use and honeybees directly and indirectly affect plant-pollinator network functioning and robustness across Europe.  
 Under review in *Nature Ecology & Evolution*.
