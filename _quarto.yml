@@ -15,7 +15,9 @@ website:
       - href: publications.qmd
         text: Publications
       - href: portfolio.qmd
-        text: Portfolio
+        text: Illustration
+      - href: gallery.qmd
+        text: Photography
 
 format:
   html:
