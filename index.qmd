@@ -1,0 +1,11 @@
+---
+title: "Home"
+---
+
+::: {.hero}
+# Nerea Montes Pérez
+
+PhD candidate at the Estación Biológica de Doñana (CSIC).
+
+I study plant-pollinator interactions, ecological networks, climate change and biodiversity conservation.
+:::
