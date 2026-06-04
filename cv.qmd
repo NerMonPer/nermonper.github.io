@@ -1,0 +1,121 @@
+---
+
+## title: "CV"
+
+# Curriculum Vitae
+
+## Current Position
+
+### PhD Candidate in Ecology
+
+**Estación Biológica de Doñana (CSIC), Spain**
+*2022–present*
+
+Research focused on plant-pollinator interaction networks, ecological networks, climate change, and biodiversity conservation. Current projects include phenological shifts in Mediterranean communities, land-use gradients and pollinator networks, and the development of European-scale probabilistic interaction networks.
+
+Expected thesis completion: January 2027.
+
+---
+
+## Education
+
+### PhD in Ecology
+
+**Estación Biológica de Doñana (CSIC)**
+2022–present
+
+### MRes Ecology, Evolution and Conservation
+
+**Imperial College London**
+2020–2021
+
+Research projects:
+
+* Meta-analysis in eco-phylogenetics.
+* Effects of temperature on wild bumblebee body size over the past century.
+
+### BSc Biology
+
+**Universidad de Vigo**
+2015–2019
+
+Bachelor thesis:
+*Impacts of the invasive plant Arctotheca calendula on plant-herbivore interaction networks.*
+
+### Erasmus+
+
+**Université Savoie Mont Blanc**
+2017–2018
+
+---
+
+## Research Experience
+
+### Université de Montréal, Canada
+
+**Research Internship with Prof. Timothée Poisot**
+2023
+
+Three-month research stay focused on mathematical algorithms for predicting plant-pollinator interactions using ecological network approaches and Julia.
+
+### Divulgare, Universidad de Vigo
+
+**Scientific Communication and Illustration**
+2020
+
+Development of educational materials and videos about pollinator conservation within the CleanAtlantic project.
+
+---
+
+## Awards
+
+* Winner, 3 Minute Thesis Competition, Universidad de Sevilla (2024)
+* Finalist, Illustraciencia X (2023)
+* Best Poster Award, EMAPi Conference (2019)
+* Academic Excellence Award, Universidad de Vigo (2016)
+
+---
+
+## Outreach and Leadership
+
+### QuinteScience Association
+
+**President (2018–2020)**
+
+Led science outreach initiatives and public engagement activities.
+
+### Spanish Junior Science Olympiad (OCJE)
+
+**Organizer (2019–2022)**
+
+Co-founded and coordinated the Spanish phase of the International Junior Science Olympiad.
+
+### Biology Olympiad of Galicia
+
+**Volunteer (2015–present)**
+
+Support in logistics, organization and exam preparation.
+
+---
+
+## Skills
+
+### Languages
+
+* Spanish (native)
+* Galician (native)
+* English (C1)
+* French (C1)
+* Japanese (A2)
+
+### Software
+
+* R
+* Julia
+* QGIS
+* Affinity Designer
+* Krita
+
+### Other Interests
+
+Scientific illustration, wildlife photography, piano, flute, hiking and science communication.
