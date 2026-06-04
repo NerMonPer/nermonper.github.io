@@ -7,12 +7,14 @@
 }
 
 body {
-  background-color: var(--cream);
-  color: var(--dark-green);
+  font-family: Avenir, "Avenir Next", Inter, Helvetica, Arial, sans-serif;
+  background-color: #F8F6F0;
+  color: #1F2A22;
 }
 
-h1, h2, h3 {
-  color: var(--dark-green);
+h1, h2, h3, h4 {
+  font-family: Avenir, "Avenir Next", Inter, Helvetica, Arial, sans-serif;
+  font-weight: 600;
 }
 
 a {
