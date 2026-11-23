@@ -1,0 +1,18 @@
+---
+title: "Photography | Nerea Montes-Pérez"
+description: "Photography is now part of the creative work page."
+format:
+  html:
+    include-in-header:
+      text: '<meta http-equiv="refresh" content="0; url=portfolio.html">'
+---
+
+~~~{=html}
+<div class="site-shell inner-page">
+  <header class="page-intro">
+    <p class="eyebrow">PHOTOGRAPHY</p>
+    <h1>Fieldwork through <em>another lens.</em></h1>
+    <p>Photography is now part of my <a href="portfolio.html">creative work page</a>.</p>
+  </header>
+</div>
+~~~

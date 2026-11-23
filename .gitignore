@@ -1,10 +1,6 @@
 /.quarto/
+/.quarto/
+/_freeze/
 **/*.quarto_ipynb
-images/gallery/
 *.zip
-images/gallery/
-*.zip
-images/gallery/
-*.zip
-images/gallery/
-*.zip
+.DS_Store

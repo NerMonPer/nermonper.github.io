@@ -1,22 +1,112 @@
 ---
-title: "Home"
-
+title: "Nerea Montes-Pérez | Ecologist"
+description: "I study the changing relationships between plants and pollinators, from Mediterranean field sites to networks across Europe."
 ---
 
-::: {.hero}
-# Nerea Montes Pérez
+~~~{=html}
+<div class="site-shell home-page">
 
-**PhD Candidate | Estacion Biologica de Donana, CSIC**
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow eyebrow-light"><span class="eyebrow-line"></span> ECOLOGIST · DOÑANA, SPAIN</p>
+    <p class="hero-name">Hello, I’m Nerea Montes-Pérez.</p>
+    <h1 id="hero-title">Nature is a network.<br><em>I study its connections.</em></h1>
+    <p class="hero-description">I explore how plants and pollinators respond to a changing world, connecting field observations with ecological networks and conservation.</p>
+    <div class="hero-actions">
+      <a class="button button-cream" href="#research">Explore my research <span aria-hidden="true">↗</span></a>
+      <a class="text-link text-link-light" href="publications.html">See publications <span aria-hidden="true">↗</span></a>
+    </div>
+    <p class="hero-affiliation">PhD researcher · Estación Biológica de Doñana – CSIC</p>
+  </div>
+  <div class="hero-visual">
+    <img src="assets/botanical-network.svg" alt="Decorative illustration of flowers, a bee and the connections between them">
+    <div class="visual-caption"><span>01 / FIELD NOTES</span><span>PLANTS × POLLINATORS</span></div>
+  </div>
+</section>
 
-I study plant-pollinator interactions, ecological networks, climate change, and biodiversity conservation.
+<div class="context-strip" aria-label="Research themes">
+  <span>FIELD ECOLOGY</span><span class="strip-star" aria-hidden="true">✳</span>
+  <span>ECOLOGICAL NETWORKS</span><span class="strip-star" aria-hidden="true">✳</span>
+  <span>BIODIVERSITY CONSERVATION</span>
+</div>
 
-[View my CV](cv.qmd){.btn .btn-primary} [Publications](publications.qmd){.btn .btn-secondary}
-:::
+<section class="intro-section section-space" aria-labelledby="intro-title">
+  <div class="section-kicker"><span>ABOUT THE WORK</span><span>01 / 03</span></div>
+  <div class="intro-grid">
+    <h2 id="intro-title">Looking closer at <em>what connects us.</em></h2>
+    <div class="intro-copy">
+      <p>Every flower visit is part of a larger story. My research asks how these connections change through the seasons, across landscapes, and under the pressures of climate and habitat loss.</p>
+      <p>At Doñana, I combine long-term monitoring and fieldwork with quantitative approaches to understand the resilience of plant–pollinator communities.</p>
+      <a class="text-link" href="cv.html">A little more about me <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 
-## Research interests
+<section id="research" class="research-section section-space" aria-labelledby="research-title">
+  <div class="section-kicker"><span>THE QUESTIONS I FOLLOW</span><span>02 / 03</span></div>
+  <div class="section-heading-row">
+    <h2 id="research-title">Research, in three <em>directions.</em></h2>
+    <p>From the timing of a flower to the structure of an entire community.</p>
+  </div>
+  <div class="research-grid">
+    <article class="research-card">
+      <div class="card-top"><span class="card-number">01</span><span class="card-symbol" aria-hidden="true">✳</span></div>
+      <p class="card-label">CLIMATE &amp; PHENOLOGY</p>
+      <h3>When life falls out of sync.</h3>
+      <p>How shifts in flowering and pollinator activity change the time species have to meet.</p>
+      <a href="https://doi.org/10.1002/ecm.70046" aria-label="Read the phenology paper">Read the paper <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="research-card">
+      <div class="card-top"><span class="card-number">02</span><span class="card-symbol" aria-hidden="true">↗</span></div>
+      <p class="card-label">LANDSCAPE CHANGE</p>
+      <h3>What survives habitat loss?</h3>
+      <p>Studying how pollinator turnover and changing interactions shape communities across a land-use gradient.</p>
+      <a href="cv.html" aria-label="Read about my research experience">About my research <span aria-hidden="true">↗</span></a>
+    </article>
+    <article class="research-card">
+      <div class="card-top"><span class="card-number">03</span><span class="card-symbol" aria-hidden="true">○</span></div>
+      <p class="card-label">NETWORKS AT SCALE</p>
+      <h3>Connecting the bigger picture.</h3>
+      <p>Bringing European interaction data together to explore which plants and pollinators may connect.</p>
+      <a href="https://doi.org/10.1111/geb.70000" aria-label="Read about the EuPPollNet database">Explore EuPPollNet <span aria-hidden="true">↗</span></a>
+    </article>
+  </div>
+</section>
 
-- Plant-pollinator interactions
-- Ecological networks
-- Climate change
-- Wild bee diversity
-- Biodiversity conservation
+<section class="featured-section section-space" aria-labelledby="featured-title">
+  <div class="section-kicker"><span>SELECTED PUBLICATIONS</span><span>03 / 03</span></div>
+  <div class="section-heading-row">
+    <h2 id="featured-title">Ideas from the <em>field to the page.</em></h2>
+    <a class="text-link" href="publications.html">All publications <span aria-hidden="true">↗</span></a>
+  </div>
+  <div class="featured-list">
+    <a class="featured-item" href="https://doi.org/10.1146/annurev-environ-121224-092446">
+      <span class="featured-year">2026 <span>REVIEW</span></span>
+      <span class="featured-title">Animal pollination under human-induced rapid environmental change <small>Annual Review of Environment and Resources</small></span>
+      <span class="featured-arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="featured-item" href="https://doi.org/10.1111/icad.70121">
+      <span class="featured-year">2026 <span>RESEARCH</span></span>
+      <span class="featured-title">Mapping wild bee diversity and flower use in Doñana <small>Insect Conservation and Diversity</small></span>
+      <span class="featured-arrow" aria-hidden="true">↗</span>
+    </a>
+    <a class="featured-item" href="https://doi.org/10.1002/ecm.70046">
+      <span class="featured-year">2025 <span>RESEARCH</span></span>
+      <span class="featured-title">Climate-driven advances still lead to a decline in phenological overlap <small>Ecological Monographs</small></span>
+      <span class="featured-arrow" aria-hidden="true">↗</span>
+    </a>
+  </div>
+</section>
+
+<section class="closing-section" aria-labelledby="closing-title">
+  <div class="closing-art" aria-hidden="true"><span>✳</span><span>✳</span><span>✳</span></div>
+  <div class="closing-copy">
+    <p class="eyebrow">BEYOND THE DATA</p>
+    <h2 id="closing-title">Curiosity doesn’t stop <em>at the field’s edge.</em></h2>
+    <p>I’m also drawn to scientific illustration, wildlife photography and finding new ways to share ecology with people.</p>
+    <a class="button button-dark" href="portfolio.html">Explore creative work <span aria-hidden="true">↗</span></a>
+  </div>
+</section>
+
+</div>
+~~~

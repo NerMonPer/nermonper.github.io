@@ -3,24 +3,43 @@ project:
   output-dir: docs
 
 website:
-  title: "Nerea Montes Pérez"
+  title: "Nerea Montes-Pérez"
+  site-url: https://nermonper.github.io/
+  description: "Research, publications and creative work by Nerea Montes-Pérez, an ecologist studying plant–pollinator networks."
+  search: false
   navbar:
-    background: "#1F2A22"
-    foreground: "#F8F6F0"
+    title: "Nerea Montes-Pérez"
+    logo: assets/mark.svg
+    logo-alt: "Flower and pollinator symbol"
+    background: "#18372F"
+    foreground: "#F7F5EC"
     left:
       - href: index.qmd
         text: Home
-      - href: cv.qmd
-        text: CV
+      - href: index.qmd#research
+        text: Research
       - href: publications.qmd
         text: Publications
+      - href: cv.qmd
+        text: CV
       - href: portfolio.qmd
-        text: Illustration
-      - href: gallery.qmd
-        text: Photography
+        text: Creative work
+    right:
+      - text: "GitHub ↗"
+        href: "https://github.com/NerMonPer"
+  page-footer:
+    left: "© 2026 Nerea Montes-Pérez"
+    right:
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0003-3014-1544"
+      - text: "GitHub"
+        href: "https://github.com/NerMonPer"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

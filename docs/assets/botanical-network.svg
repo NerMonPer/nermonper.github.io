@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 760" role="img" aria-labelledby="title description">
+  <title id="title">Botanical network</title>
+  <desc id="description">A stylised bee and three flowering plants, connected by delicate lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#426a56"/><stop offset=".6" stop-color="#315545"/><stop offset="1" stop-color="#214538"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5e8c9"/><stop offset="1" stop-color="#d5a481"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8c09c"/><stop offset="1" stop-color="#b97963"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#fbebc4" opacity=".13"/>
+    </pattern>
+    <g id="big-petal">
+      <path d="M 0 -21 C -34 -64 -37 -105 -4 -118 C 31 -124 38 -63 0 -21 Z" fill="url(#petal)" stroke="#f4e2bc" stroke-width="1.6"/>
+      <path d="M 0 -30 Q -8 -65 -4 -107" fill="none" stroke="#b87f67" stroke-width="1.2" opacity=".7"/>
+    </g>
+    <g id="small-petal">
+      <path d="M 0 -11 C -23 -36 -23 -62 -2 -69 C 21 -70 22 -39 0 -11 Z" fill="url(#warm)" stroke="#edcfaa" stroke-width="1.5"/>
+    </g>
+  </defs>
+  <rect width="620" height="760" fill="url(#background)"/>
+  <rect width="620" height="760" fill="url(#dots)"/>
+  <circle cx="310" cy="305" r="240" fill="#d7bd82" opacity=".12"/>
+  <circle cx="310" cy="305" r="214" fill="none" stroke="#e5d8aa" stroke-width="1" opacity=".28"/>
+  <circle cx="310" cy="305" r="268" fill="none" stroke="#e5d8aa" stroke-width="1" opacity=".15"/>
+  <path d="M 0 655 C 170 615 365 712 620 610 L620 760 H0 Z" fill="#183d33" opacity=".38"/>
+
+  <!-- Relations between species, drawn behind the plants. -->
+  <g fill="none" stroke="#f1dbb2" stroke-width="1.4" stroke-dasharray="3 8" opacity=".65">
+    <path d="M 154 327 Q 254 128 413 200"/>
+    <path d="M 350 260 Q 385 157 413 200"/>
+    <path d="M 484 396 Q 542 246 437 210"/>
+    <path d="M 154 327 Q 287 396 484 396"/>
+  </g>
+  <g fill="#f6d8a1" opacity=".85">
+    <circle cx="263" cy="226" r="3"/><circle cx="385" cy="179" r="3"/>
+    <circle cx="526" cy="301" r="3"/><circle cx="292" cy="371" r="3"/>
+  </g>
+
+  <!-- Field plants. -->
+  <g fill="none" stroke="#e1d8a9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 110 728 C 137 612 147 483 154 327" stroke-width="3"/>
+    <path d="M 158 718 C 201 609 277 454 350 260" stroke-width="3.6"/>
+    <path d="M 505 726 C 500 588 492 472 484 396" stroke-width="3"/>
+    <path d="M 364 720 C 396 606 427 528 484 396" stroke-width="2"/>
+    <path d="M 154 593 Q 124 526 79 500" stroke-width="2"/>
+    <path d="M 174 567 Q 208 504 232 493" stroke-width="2"/>
+    <path d="M 262 512 Q 234 450 219 421" stroke-width="2"/>
+    <path d="M 295 435 Q 336 427 373 397" stroke-width="2"/>
+    <path d="M 500 608 Q 547 558 571 529" stroke-width="2"/>
+    <path d="M 489 561 Q 451 533 430 500" stroke-width="2"/>
+  </g>
+  <g fill="#c7d5ad" fill-opacity=".8" stroke="#dfe5bb" stroke-width="1.4">
+    <path d="M 154 593 Q 105 574 79 500 Q 128 508 154 593Z"/>
+    <path d="M 174 567 Q 168 517 232 493 Q 218 550 174 567Z"/>
+    <path d="M 262 512 Q 215 486 219 421 Q 262 448 262 512Z"/>
+    <path d="M 295 435 Q 321 393 373 397 Q 355 433 295 435Z"/>
+    <path d="M 500 608 Q 504 547 571 529 Q 552 584 500 608Z"/>
+    <path d="M 489 561 Q 435 563 430 500 Q 475 518 489 561Z"/>
+  </g>
+  <g fill="none" stroke="#e7daa8" stroke-width="1" opacity=".7">
+    <path d="M 79 500 Q 119 549 154 593"/><path d="M 232 493 Q 197 539 174 567"/>
+    <path d="M 219 421 Q 244 474 262 512"/><path d="M 571 529 Q 537 576 500 608"/>
+  </g>
+
+  <!-- Main flower. -->
+  <g transform="translate(350 260)">
+    <use href="#big-petal"/><use href="#big-petal" transform="rotate(72)"/>
+    <use href="#big-petal" transform="rotate(144)"/><use href="#big-petal" transform="rotate(216)"/>
+    <use href="#big-petal" transform="rotate(288)"/>
+    <circle r="32" fill="#b76847" stroke="#f4dda7" stroke-width="2"/>
+    <circle r="22" fill="#dfb368"/>
+    <g fill="#583e31">
+      <circle cx="-13" cy="-10" r="2.3"/><circle cx="5" cy="-16" r="2.2"/><circle cx="15" cy="-5" r="2.1"/>
+      <circle cx="-12" cy="9" r="2.2"/><circle cx="5" cy="11" r="2.4"/><circle cx="0" cy="0" r="2.2"/>
+    </g>
+  </g>
+
+  <!-- Smaller flower. -->
+  <g transform="translate(154 327)">
+    <use href="#small-petal"/><use href="#small-petal" transform="rotate(60)"/>
+    <use href="#small-petal" transform="rotate(120)"/><use href="#small-petal" transform="rotate(180)"/>
+    <use href="#small-petal" transform="rotate(240)"/><use href="#small-petal" transform="rotate(300)"/>
+    <circle r="18" fill="#e6c883" stroke="#f4dea9" stroke-width="2"/>
+    <circle r="7" fill="#9a7047"/>
+  </g>
+
+  <!-- Meadow flower and bud. -->
+  <g transform="translate(484 396)">
+    <g fill="#f0d9b2" stroke="#f4dfb8" stroke-width="1.5">
+      <ellipse cy="-30" ry="28" rx="10"/><ellipse cy="-30" ry="28" rx="10" transform="rotate(45)"/>
+      <ellipse cy="-30" ry="28" rx="10" transform="rotate(90)"/><ellipse cy="-30" ry="28" rx="10" transform="rotate(135)"/>
+      <ellipse cy="-30" ry="28" rx="10" transform="rotate(180)"/><ellipse cy="-30" ry="28" rx="10" transform="rotate(225)"/>
+      <ellipse cy="-30" ry="28" rx="10" transform="rotate(270)"/><ellipse cy="-30" ry="28" rx="10" transform="rotate(315)"/>
+    </g>
+    <circle r="14" fill="#cc985d" stroke="#ffe8b6" stroke-width="2"/>
+  </g>
+  <circle cx="219" cy="421" r="6" fill="#e3b98f"/>
+
+  <!-- Visiting bee. -->
+  <g transform="translate(420 188) rotate(-13)">
+    <path d="M -9 -11 C -37 -52 -16 -66 2 -25 C 14 -65 44 -49 18 -9" fill="#efe4cc" fill-opacity=".68" stroke="#f4eacb" stroke-width="2"/>
+    <ellipse cx="0" cy="5" rx="34" ry="22" fill="#e4b86e" stroke="#f9e3b4" stroke-width="2"/>
+    <path d="M -8 -16 C -2 -4 -2 12 -7 24 M 11 -15 C 18 -6 18 12 13 22" fill="none" stroke="#4a3e30" stroke-width="7" opacity=".8"/>
+    <ellipse cx="-32" cy="4" rx="13" ry="13" fill="#3f3c31"/>
+    <circle cx="-38" cy="-1" r="2" fill="#fff3d7"/>
+    <path d="M -36 -6 Q -52 -26 -54 -28 M -28 -9 Q -30 -28 -24 -32 M -12 23 L-18 38 M 5 26 L2 40 M 22 18 L29 31" fill="none" stroke="#f5dcaa" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 34 4 L47 7 L34 13" fill="#d5a464"/>
+  </g>
+
+  <g fill="#f0dab2" opacity=".75">
+    <circle cx="76" cy="142" r="2"/><circle cx="537" cy="96" r="2"/><circle cx="551" cy="209" r="1.8"/>
+    <circle cx="91" cy="423" r="1.5"/><circle cx="401" cy="583" r="1.8"/>
+  </g>
+</svg>

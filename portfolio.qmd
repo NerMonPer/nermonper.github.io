@@ -1,7 +1,38 @@
 ---
-title: "Portfolio"
+title: "Creative work | Nerea Montes-Pérez"
+description: "Scientific illustration, nature photography and science communication by Nerea Montes-Pérez."
 ---
 
-# Portfolio
+~~~{=html}
+<div class="site-shell inner-page creative-page">
+  <header class="page-intro">
+    <p class="eyebrow">CREATIVE PRACTICE / OUTREACH</p>
+    <h1>Another way to <em>look closer.</em></h1>
+    <p>Art and science both begin with paying attention. Illustration, photography and storytelling help me share what fieldwork teaches me.</p>
+  </header>
 
-Coming soon.
+  <section class="creative-feature" aria-labelledby="creative-feature-title">
+    <div class="creative-art">
+      <img src="assets/botanical-network.svg" alt="Decorative illustration of a bee visiting flowers in a network">
+      <span>PLANTS × POLLINATORS</span>
+    </div>
+    <div class="creative-feature-copy">
+      <p class="eyebrow">SEEING ECOLOGY</p>
+      <h2 id="creative-feature-title">Making the invisible <em>feel visible.</em></h2>
+      <p>There is beauty in the details: the shape of a flower, the behaviour of a bee, the pattern of a network. I use visual work and public communication to bring those details into focus.</p>
+      <p class="art-note">A selection of personal illustrations and field photographs will join this page as the collection grows.</p>
+    </div>
+  </section>
+
+  <section class="creative-columns" aria-label="Creative interests">
+    <article><span class="creative-num">01 / ILLUSTRATION</span><h3>Drawing nature</h3><p>Scientific illustration gives me a way to linger on form and function. I was a finalist in Illustraciencia X in 2023.</p></article>
+    <article><span class="creative-num">02 / PHOTOGRAPHY</span><h3>Observing the field</h3><p>Wildlife photography is an extension of fieldwork: a reason to pause and notice the species and places around me.</p></article>
+    <article><span class="creative-num">03 / COMMUNICATION</span><h3>Sharing science</h3><p>From educational materials to the 3 Minute Thesis stage, I enjoy finding clear ways to bring pollinator research to wider audiences.</p></article>
+  </section>
+
+  <div class="page-endnote">
+    <div><span class="eyebrow">LET’S CONNECT</span><h2>Good ideas grow together.</h2></div>
+    <p>Interested in research or science communication? Find me through <a href="https://github.com/NerMonPer">GitHub <span aria-hidden="true">↗</span></a> or <a href="https://orcid.org/0000-0003-3014-1544">ORCID <span aria-hidden="true">↗</span></a>.</p>
+  </div>
+</div>
+~~~
