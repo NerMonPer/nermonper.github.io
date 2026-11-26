@@ -311,39 +311,14 @@ main.content { padding: 0 !important; margin: 0 !important; min-width: 0; }
 .timeline-item h3 { margin: 0 0 4px; font-size: 1.52rem; line-height: 1.25; }
 .timeline-item p { max-width: 690px; margin: 0; color: #53645b; font-size: .91rem; }
 .timeline-item .timeline-detail { margin-top: 7px; font-style: italic; }
+.timeline-item h3 a { color: inherit; text-decoration: none; }
+.timeline-item h3 a:hover { color: var(--clay); }
+.cv-more-link { margin: 12px 0 0; }
 .cv-skills { display: grid; grid-template-columns: .85fr 1.15fr; gap: 8%; padding: 47px 0 0; border-top: 1px solid var(--line); }
 .cv-skills h2 { max-width: 370px; font-size: clamp(2.4rem, 4vw, 4rem); line-height: 1.13; }
 .skill-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; }
 .skill-columns h3 { font-size: 1.38rem; }
 .skill-columns p { color: #52635a; font-size: .95rem; }
-
-/* Keep the existing published CV copy while giving its Quarto layout the new visual language. */
-#quarto-content.page-layout-article main.content {
-  width: min(100% - 64px, 920px);
-  max-width: 920px;
-  margin: 0 auto !important;
-  padding: 75px 0 0 !important;
-}
-.page-layout-article .level1 > h1 {
-  margin: 0 0 64px;
-  font-size: clamp(3.2rem, 6vw, 5.4rem);
-  line-height: 1.1;
-}
-.page-layout-article .level2 > h2 {
-  margin: 58px 0 25px;
-  padding-top: 24px;
-  border-top: 1px solid var(--line);
-  font-size: clamp(2.2rem, 3.5vw, 3rem);
-}
-.page-layout-article .level3 {
-  padding-bottom: 23px;
-  margin-bottom: 22px;
-  border-bottom: 1px solid var(--line);
-}
-.page-layout-article .level3 h3 { margin-bottom: 8px; font-size: 1.63rem; }
-.page-layout-article .level3 p, .page-layout-article .level2 > p,
-.page-layout-article .level3 li { color: #52635a; }
-.page-layout-article .level3 hr { display: none; }
 
 /* Creative page */
 .creative-feature { display: grid; grid-template-columns: 1fr 1fr; min-height: 480px; background: #e9eee5; }

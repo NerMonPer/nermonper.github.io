@@ -27,7 +27,7 @@ description: "Scientific illustration, nature photography and science communicat
   <section class="creative-columns" aria-label="Creative interests">
     <article><span class="creative-num">01 / ILLUSTRATION</span><h3>Drawing nature</h3><p>Scientific illustration gives me a way to linger on form and function. I was a finalist in Illustraciencia X in 2023.</p></article>
     <article><span class="creative-num">02 / PHOTOGRAPHY</span><h3>Observing the field</h3><p>Wildlife photography is an extension of fieldwork: a reason to pause and notice the species and places around me.</p></article>
-    <article><span class="creative-num">03 / COMMUNICATION</span><h3>Sharing science</h3><p>From educational materials to the 3 Minute Thesis stage, I enjoy finding clear ways to bring pollinator research to wider audiences.</p></article>
+    <article><span class="creative-num">03 / COMMUNICATION</span><h3>Sharing science</h3><p>From educational materials to the 3 Minute Thesis stage, I enjoy finding clear ways to share pollinator research. I designed the cover, icons and logo for the 2026 guide <em>Plantas silvestres para Abejas silvestres</em>.</p></article>
   </section>
 
   <div class="page-endnote">

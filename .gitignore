@@ -1,6 +1,6 @@
 /.quarto/
-/.quarto/
 /_freeze/
+/docs/search.json
 **/*.quarto_ipynb
 *.zip
 .DS_Store
