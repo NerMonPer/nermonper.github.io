@@ -1,6 +1,6 @@
 ---
 title: "Publications | Nerea Montes-Pérez"
-description: "Peer-reviewed research on plant–pollinator networks, wild bees and ecological change."
+description: "Research articles and preprints on plant–pollinator networks, wild bees and ecological change."
 ---
 
 ~~~{=html}
@@ -8,12 +8,21 @@ description: "Peer-reviewed research on plant–pollinator networks, wild bees a
   <header class="page-intro">
     <p class="eyebrow">RESEARCH / PUBLICATIONS</p>
     <h1>Ideas that travel <em>beyond the field.</em></h1>
-    <p>Selected peer-reviewed work on pollination, ecological networks and biodiversity in a changing world.</p>
+    <p>Research articles and preprints on pollination, ecological networks and biodiversity in a changing world.</p>
   </header>
 
   <section class="pub-section" aria-labelledby="pub-2026">
-    <div class="pub-year"><h2 id="pub-2026">2026</h2><span>02 PAPERS</span></div>
+    <div class="pub-year"><h2 id="pub-2026">2026</h2><span>02 ARTICLES · 01 PREPRINT</span></div>
     <div class="pub-list">
+      <article class="pub-item">
+        <div class="pub-meta"><span>PREPRINT</span><span>LANDSCAPE CHANGE</span></div>
+        <div class="pub-body">
+          <h3>Pollinator response diversity and turnover buffer pollination networks from habitat loss in human-modified landscapes</h3>
+          <p><strong>Nerea Montes-Pérez</strong>, Ignasi Bartomeus &amp; Francisco Rodríguez-Sánchez</p>
+          <p class="pub-journal"><em>bioRxiv</em> · 2026 · not yet peer reviewed</p>
+          <a class="text-link" href="https://doi.org/10.64898/2026.11.20.768076">Read the preprint <span aria-hidden="true">↗</span></a>
+        </div>
+      </article>
       <article class="pub-item">
         <div class="pub-meta"><span>REVIEW ARTICLE</span><span>ANNUAL REVIEW</span></div>
         <div class="pub-body">

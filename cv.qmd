@@ -1,121 +1,101 @@
 ---
-title: "CV"
+title: "CV | Nerea Montes-Pérez"
+description: "Research experience, education, publications and outreach by quantitative ecologist Nerea Montes-Pérez."
 ---
 
-# Curriculum Vitae
+~~~{=html}
+<div class="site-shell inner-page">
+  <header class="page-intro">
+    <p class="eyebrow">BACKGROUND / CURRICULUM VITAE</p>
+    <h1>A life spent asking <em>better questions.</em></h1>
+    <p>I’m a quantitative ecologist studying how climate change and land use reshape plant–pollinator communities. My work connects field ecology, network analysis and science communication.</p>
+    <div class="page-intro-actions">
+      <a class="button button-dark" href="publications.html">Browse publications <span aria-hidden="true">↗</span></a>
+      <a class="text-link" href="https://orcid.org/0000-0003-3014-1544">ORCID profile <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
 
-## Current Position
+  <section class="cv-feature" aria-labelledby="doctoral-work">
+    <p class="eyebrow">DOCTORAL RESEARCH</p>
+    <div>
+      <h2 id="doctoral-work">Plant–pollinator networks in a changing world</h2>
+      <p class="cv-feature-place">Estación Biológica de Doñana – CSIC · University of Seville · 2022–2026</p>
+      <p>My thesis brings together an eight-year time series, a 30-site landscape gradient and a European probabilistic metaweb to understand how ecological interactions respond to climate and habitat change. The thesis has been submitted, with the defence expected in January 2027.</p>
+    </div>
+  </section>
 
-### PhD Candidate in Ecology
+  <section class="cv-section" aria-labelledby="experience-title">
+    <div class="cv-sidebar"><p class="eyebrow">01 / PRACTICE</p><h2 id="experience-title">Research experience</h2></div>
+    <div class="timeline">
+      <article class="timeline-item">
+        <span class="timeline-date">2026</span>
+        <div><h3>Research technician &amp; data analyst</h3><p>EBD-CSIC · Horizon Europe VALOR. Contributed to ecological data analysis for a project investigating society’s dependence on pollinators.</p></div>
+      </article>
+      <article class="timeline-item">
+        <span class="timeline-date">2022–2026</span>
+        <div><h3>Doctoral researcher in ecology</h3><p>EBD-CSIC · H2020 SAFEGUARD. Analysed long-term monitoring data, led field sampling across 30 sites and integrated European plant–pollinator interaction datasets. Coordinated repeated field rounds and contributed to international collaboration and project reporting.</p></div>
+      </article>
+      <article class="timeline-item">
+        <span class="timeline-date">2023</span>
+        <div><h3>Visiting researcher · Université de Montréal</h3><p>Poisot Lab. Applied LF–SVD methods in Julia to predict plant–pollinator interactions for a European-scale metaweb.</p></div>
+      </article>
+      <article class="timeline-item">
+        <span class="timeline-date">2020</span>
+        <div><h3>Science communication · Divulgare</h3><p>University of Vigo. Developed educational videos and illustrations on pollinator conservation for the CleanAtlantic project.</p></div>
+      </article>
+    </div>
+  </section>
 
-**Estacion Biologica de Donana (CSIC), Spain**
-*2022–present*
+  <section class="cv-section" aria-labelledby="education-title">
+    <div class="cv-sidebar"><p class="eyebrow">02 / PATH</p><h2 id="education-title">Education</h2></div>
+    <div class="timeline">
+      <article class="timeline-item"><span class="timeline-date">2022–2027*</span><div><h3>PhD · Integrated Biology (Ecology)</h3><p>University of Seville / EBD-CSIC, Spain</p><p class="timeline-detail">Thesis submitted; defence expected in January 2027. *Expected completion.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2020–2021</span><div><h3>MRes Ecology, Evolution &amp; Conservation</h3><p>Imperial College London, United Kingdom · Merit</p><p class="timeline-detail">Research on eco-phylogenetics and temperature-related changes in wild bumblebee body size.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2015–2019</span><div><h3>BSc Biology</h3><p>University of Vigo, Spain</p><p class="timeline-detail">Bachelor’s thesis on invasive plants and plant–herbivore networks.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2017–2018</span><div><h3>Erasmus+ exchange</h3><p>Université Savoie Mont Blanc, France</p></div></article>
+    </div>
+  </section>
 
-Research focused on plant-pollinator interaction networks, ecological networks, climate change, and biodiversity conservation. Current projects include phenological shifts in Mediterranean communities, land-use gradients and pollinator networks, and the development of European-scale probabilistic interaction networks.
+  <section class="cv-section" aria-labelledby="selected-work-title">
+    <div class="cv-sidebar"><p class="eyebrow">03 / OUTPUTS</p><h2 id="selected-work-title">Selected work</h2></div>
+    <div class="timeline">
+      <article class="timeline-item"><span class="timeline-date">2026 · PREPRINT</span><div><h3><a href="https://doi.org/10.64898/2026.11.20.768076">Pollinator response diversity and turnover buffer pollination networks from habitat loss in human-modified landscapes <span aria-hidden="true">↗</span></a></h3><p>First-author research preprint · bioRxiv.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2026 · REVIEW</span><div><h3><a href="https://doi.org/10.1146/annurev-environ-121224-092446">Animal pollination under human-induced rapid environmental change <span aria-hidden="true">↗</span></a></h3><p>Annual Review of Environment and Resources.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2026 · RESEARCH</span><div><h3><a href="https://doi.org/10.1111/icad.70121">Mapping wild bee diversity and flower use in Doñana <span aria-hidden="true">↗</span></a></h3><p>Insect Conservation and Diversity.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2025 · RESEARCH</span><div><h3><a href="https://doi.org/10.1002/ecm.70046">Climate-driven phenological advances and declining overlap <span aria-hidden="true">↗</span></a></h3><p>First-author research article · Ecological Monographs.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2025 · DATABASE</span><div><h3><a href="https://doi.org/10.1111/geb.70000">EuPPollNet: A European database of plant–pollinator networks <span aria-hidden="true">↗</span></a></h3><p>Global Ecology and Biogeography.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">ACCEPTED</span><div><h3>Local habitat quality, landscape use and honeybees directly and indirectly affect plant–pollinator network functioning and robustness across Europe</h3><p>Collaborative manuscript accepted for publication in <em>Nature Ecology &amp; Evolution</em>.</p></div></article>
+      <p class="cv-more-link"><a class="text-link" href="publications.html">See the full publication list <span aria-hidden="true">↗</span></a></p>
+    </div>
+  </section>
 
-Expected thesis completion: January 2027.
+  <section class="cv-section" aria-labelledby="outreach-title">
+    <div class="cv-sidebar"><p class="eyebrow">04 / COMMUNITY</p><h2 id="outreach-title">Outreach &amp; leadership</h2></div>
+    <div class="timeline">
+      <article class="timeline-item"><span class="timeline-date">2026</span><div><h3>Wild bee outreach guide</h3><p>Contributed cover, icon and logo design to <em>Plantas silvestres para Abejas silvestres</em> in collaboration with Asociación Abejas Silvestres.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">ONGOING</span><div><h3>International synthesis collaboration</h3><p>Co-lead a working group developing good practices for predictive ecology, coordinating contributors and manuscript development.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2018–2020</span><div><h3>President · QuinteScience</h3><p>Led public science activities and handled a small budget and expense reimbursements.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2019–2022</span><div><h3>Co-founder · Spanish Junior Science Olympiad</h3><p>Helped organise regional and national phases, assessments and finalist training.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2015–PRESENT</span><div><h3>Biology Olympiad of Galicia</h3><p>Volunteer supporting logistics and examination preparation.</p></div></article>
+    </div>
+  </section>
 
----
+  <section class="cv-section" aria-labelledby="recognition-title">
+    <div class="cv-sidebar"><p class="eyebrow">05 / RECOGNITION</p><h2 id="recognition-title">Awards</h2></div>
+    <div class="timeline">
+      <article class="timeline-item"><span class="timeline-date">2024</span><div><h3>Winner · 3 Minute Thesis</h3><p>University of Seville.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2023</span><div><h3>Finalist · Illustraciencia X</h3><p>Scientific illustration competition.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2019</span><div><h3>Best poster · EMAPi</h3><p>Conference presentation.</p></div></article>
+      <article class="timeline-item"><span class="timeline-date">2016</span><div><h3>Academic Excellence Award</h3><p>University of Vigo.</p></div></article>
+    </div>
+  </section>
 
-## Education
-
-### PhD in Ecology
-
-**Estacion Biologica de Donana (CSIC)**
-2022–present
-
-### MRes Ecology, Evolution and Conservation
-
-**Imperial College London**
-2020–2021
-
-Research projects:
-
-* Meta-analysis in eco-phylogenetics.
-* Effects of temperature on wild bumblebee body size over the past century.
-
-### BSc Biology
-
-**Universidad de Vigo**
-2015–2019
-
-Bachelor thesis:
-*Impacts of the invasive plant Arctotheca calendula on plant-herbivore interaction networks.*
-
-### Erasmus+
-
-**Université Savoie Mont Blanc**
-2017–2018
-
----
-
-## Research Experience
-
-### Université de Montréal, Canada
-
-**Research Internship with Prof. Timothée Poisot**
-2023
-
-Three-month research stay focused on mathematical algorithms for predicting plant-pollinator interactions using ecological network approaches and Julia.
-
-### Divulgare, Universidad de Vigo
-
-**Scientific Communication and Illustration**
-2020
-
-Development of educational materials and videos about pollinator conservation within the CleanAtlantic project.
-
----
-
-## Awards
-
-* Winner, 3 Minute Thesis Competition, Universidad de Sevilla (2024)
-* Finalist, Illustraciencia X (2023)
-* Best Poster Award, EMAPi Conference (2019)
-* Academic Excellence Award, Universidad de Vigo (2016)
-
----
-
-## Outreach and Leadership
-
-### QuinteScience Association
-
-**President (2018–2020)**
-
-Led science outreach initiatives and public engagement activities.
-
-### Spanish Junior Science Olympiad (OCJE)
-
-**Organizer (2019–2022)**
-
-Co-founded and coordinated the Spanish phase of the International Junior Science Olympiad.
-
-### Biology Olympiad of Galicia
-
-**Volunteer (2015–present)**
-
-Support in logistics, organization and exam preparation.
-
----
-
-## Skills
-
-### Languages
-
-* Spanish (native)
-* Galician (native)
-* English (C1)
-* French (C1)
-* Japanese (A2)
-
-### Software
-
-* R
-* Julia
-* QGIS
-* Affinity Designer
-* Krita
-
-### Other Interests
-
-Scientific illustration, wildlife photography, piano, flute, hiking and science communication.
+  <section class="cv-skills" aria-labelledby="skills-title">
+    <div><p class="eyebrow">TOOLS OF THE TRADE</p><h2 id="skills-title">Working across <em>disciplines.</em></h2></div>
+    <div class="skill-columns">
+      <div><h3>Methods &amp; tools</h3><p>Field ecology · Ecological networks · R · QGIS · Julia · GLMMs · GAMs · Evidence synthesis · Scientific illustration</p></div>
+      <div><h3>Languages</h3><p>Spanish &amp; Galician (native) · English &amp; French (C1) · Japanese (A2)</p></div>
+    </div>
+  </section>
+</div>
+~~~

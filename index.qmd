@@ -80,6 +80,11 @@ description: "I study the changing relationships between plants and pollinators,
     <a class="text-link" href="publications.html">All publications <span aria-hidden="true">↗</span></a>
   </div>
   <div class="featured-list">
+    <a class="featured-item" href="https://doi.org/10.64898/2026.11.20.768076">
+      <span class="featured-year">2026 <span>PREPRINT</span></span>
+      <span class="featured-title">Pollinator response diversity and turnover buffer networks from habitat loss <small>bioRxiv · first-author preprint</small></span>
+      <span class="featured-arrow" aria-hidden="true">↗</span>
+    </a>
     <a class="featured-item" href="https://doi.org/10.1146/annurev-environ-121224-092446">
       <span class="featured-year">2026 <span>REVIEW</span></span>
       <span class="featured-title">Animal pollination under human-induced rapid environmental change <small>Annual Review of Environment and Resources</small></span>
